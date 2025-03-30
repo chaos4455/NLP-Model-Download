@@ -21,7 +21,6 @@
 ## 🎯 O que é isso?
 
 ![c20f2ade-ba12-49a7-9f1d-5b95026fad51](https://github.com/user-attachments/assets/6313c7ab-7992-4d6a-b1a9-9204c18202c9)
-*(Exemplo visual do output colorido e informativo do script)*
 
 Cansado de baixar manualmente cada modelo e pacote de dados para seus projetos de Processamento de Linguagem Natural (NLP)? 😩 Perder tempo configurando tudo repetidamente, apenas para descobrir depois que esqueceu algo ou que o cache não funcionou como esperado?
 
