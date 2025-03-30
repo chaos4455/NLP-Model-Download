@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 O que é isso?
+## 🎯 O que é esse projeto?
 
 ![c20f2ade-ba12-49a7-9f1d-5b95026fad51](https://github.com/user-attachments/assets/6313c7ab-7992-4d6a-b1a9-9204c18202c9)
 
