@@ -90,7 +90,6 @@ pip install colorama transformers torch nltk gensim tqdm requests huggingface_hu
     pip install colorama transformers nltk gensim tqdm requests huggingface_hub torch
     ```
     [![Dependencies](https://img.shields.io/badge/Libs-Transformers%20%7C%20PyTorch%20%7C%20NLTK%20%7C%20Gensim%20%7C%20HF--Hub-critical?style=flat)](requirements.txt)
-    *(Nota: Considere criar um arquivo `requirements.txt` para facilitar a instalação)*
 
 ## 🚀 Como Usar
 
