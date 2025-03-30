@@ -60,6 +60,16 @@ O script está configurado por padrão para baixar os seguintes recursos:
 
 Antes de executar o script, você precisará ter:
 
+## ⚙️ Instalação das Dependências
+
+Precisa instalar as bibliotecas Python necessárias. Você pode fazer isso facilmente usando `pip`.
+
+Abra seu terminal ou prompt de comando e execute o seguinte comando:
+
+```bash
+pip install colorama transformers torch nltk gensim tqdm requests huggingface_hub
+```
+
 1.  **Python:** Versão 3.8 ou superior recomendada.
     [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=flat&logo=python)](https://python.org)
 2.  **Pip:** O gerenciador de pacotes do Python (geralmente vem junto com o Python).
