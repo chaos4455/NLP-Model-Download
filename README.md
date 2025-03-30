@@ -22,6 +22,9 @@
 
 ## 🎯 O que é isso?
 
+![c20f2ade-ba12-49a7-9f1d-5b95026fad51](https://github.com/user-attachments/assets/6313c7ab-7992-4d6a-b1a9-9204c18202c9)
+
+
 Cansado de baixar manualmente cada modelo e pacote de dados para seus projetos de Processamento de Linguagem Natural (NLP)? 😩 Perder tempo configurando tudo repetidamente?
 
 O **NLP Toolkit Downloader** é um script Python robusto e altamente visual projetado para automatizar completamente o download e a configuração inicial dos modelos e conjuntos de dados NLP mais populares. Ele transforma um processo potencialmente tedioso em uma execução simples e informativa, direto no seu console!  console colorido, detalhado e cheio de emojis! 🎨📊
