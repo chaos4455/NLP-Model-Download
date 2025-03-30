@@ -103,9 +103,9 @@ Antes de executar, garanta que você tem o ambiente preparado:
 4.  **Execute o Script:**
     Abra seu terminal ou prompt de comando, navegue até a pasta onde salvou o script e execute:
     ```bash
-    python seu_nome_de_script.py
+    python app.py
     ```
-    *(Substitua `seu_nome_de_script.py` pelo nome real do arquivo)*
+
 
 5.  **Acompanhe a Mágica:**
     Relaxe e veja o script trabalhar! O console mostrará cada passo: verificações, configuração, status do cache, downloads (com barras de progresso se aplicável), testes e, por fim, um resumo completo. 🎉
