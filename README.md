@@ -22,6 +22,17 @@
 
 ![c20f2ade-ba12-49a7-9f1d-5b95026fad51](https://github.com/user-attachments/assets/6313c7ab-7992-4d6a-b1a9-9204c18202c9)
 
+## 👨‍💻 Sobre o Autor
+
+Eu sou **Elias Andrade**, um apaixonado por tecnologia e resolução de problemas, atuando como Arquiteto de Soluções e Desenvolvedor Full Stack na **Replika AI Solutions**. Tenho vasta experiência em desenvolvimento Python, arquitetura de sistemas, cloud, DevOps, MLOps e na aplicação de Inteligência Artificial para criar soluções de negócio inovadoras. Este projeto é um reflexo dessa paixão e expertise.
+
+<img width="656" alt="chrome_7ks3sNyRJh" src="https://github.com/user-attachments/assets/45236990-9e1b-4de7-ac41-103d5fbab6d7" />
+
+
+**Vamos conectar e discutir como a tecnologia pode impulsionar o seu negócio?**
+
+*   **WhatsApp:** [+55 11 9 1335 3137](https://wa.me/5511913353137)
+*   
 Cansado de baixar manualmente cada modelo e pacote de dados para seus projetos de Processamento de Linguagem Natural (NLP)? 😩 Perder tempo configurando tudo repetidamente, apenas para descobrir depois que esqueceu algo ou que o cache não funcionou como esperado?
 
 O **NLP Toolkit Downloader** é um script Python **robusto**, **configurável** e **altamente visual**, projetado para automatizar completamente o download e a configuração inicial dos modelos e conjuntos de dados NLP mais populares. Ele transforma um processo potencialmente tedioso e propenso a erros em uma execução simples, informativa e controlada, direto no seu console! Com feedback detalhado, colorido e cheio de emojis! 🎨📊✅
